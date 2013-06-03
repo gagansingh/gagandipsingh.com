@@ -111,10 +111,10 @@ function pull(time, multiplier)
 				ropetop.animate({ height: "3.4em" }, 40);
 				ropebottom.animate({ marginTop: "18px" },40);
 
-				ropetop.animate({ height: "1.5em" }, 125);
+				ropetop.animate({ height: "0.5em" }, 125);
 				ropebottom.animate({ marginTop: "-9px" }, 125);
 
-				ropetop.animate({ height: "2em" }, 150);
+				ropetop.animate({ height: "1em" }, 150);
 				ropebottom.animate({ marginTop: "0px" }, 150);
 				lamp.attr("src","images/lampdown.png");
 			}
